@@ -30,7 +30,8 @@ This project aims to develop an efficient and accurate system for classifying to
 
 ## 📷 Sample Images
 
-![Screenshot 2024-05-17 231316](https://github.com/prajwol148/Tomato-Plant-Disease-Classification-using-CNN-Mobile-and-Web-App-/assets/68413988/b159c89a-c537-4937-9a41-5762009e716d)
+![Screenshot 2024-05-17 231316](https://github.com/prajwol148/Tomato-Plant-Disease-Classification-using-CNN-Mobile-and-Web-App-/assets/68413988/41542af7-c3a3-4c11-89b8-442a5199fa4b)
+
 ![web-page-loading](https://github.com/prajwol148/Tomato-Plant-Disease-Classification-using-CNN-Mobile-and-Web-App-/assets/68413988/49e1a9cb-3a2c-482d-a5ce-fd7badcb068b)
 
 ## 🚀 Getting Started
